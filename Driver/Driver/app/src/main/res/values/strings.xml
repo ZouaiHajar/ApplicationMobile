@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Driver</string>
+
+    <string name="reset">Modifier votre mot de passe ?</string>
+    <string name="enterP">Entrez votre nouveau mot de passe</string>
+    <string name="Yes">Oui</string>
+    <string name="No">Non</string>
+    <string name="PRS">Réinitialisation du mot de passe réussie</string>
+    <string name="PRF">Echec de la réinitialisation du mot de passe</string>
+
+    <string name="modif_pass">Modifier votre mot de passe</string>
+    <string name="selected_language">Francais</string>
+    <string name="language">Modifier la langue </string>
+    <string name="TextGuidance">Bonjour Monsieur , Madame la(e)
+        policier(e) cette application est a votre service , pour Modifier votre Mot de passe ,
+        Changer la langue dapplication veuillez aller au menu et cliquer sur Configuration.
+        pour voir la liste des violations proche de vous veuillez aller au menu et cliquer sur violations .
+        pour sortie de lapplication il suffete de cliquer sur Deconnexion.</string>
+    <string name="HomeG">orientation</string>
+    <string name="HomeV">Irrégularités</string>
+    <string name="HomeSeet">Paramètres</string>
+    <string name="HomeLogout">Déconnexion</string>
+
+</resources>

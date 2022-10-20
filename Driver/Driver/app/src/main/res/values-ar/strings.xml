@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="reset">إعادة تعيين كلمة المرور الخاصة بك؟</string>
+    <string name="enterP">أدخل كلمة المرور الجديدة</string>
+    <string name="Yes">نعم</string>
+    <string name="No">لا</string>
+    <string name="PRS">إعادة تعيين كلمة المرور بنجاح</string>
+    <string name="PRF">فشلت إعادة تعيين كلمة المرور</string>
+
+    <string name="app_name">سائق</string>
+
+    <string name="modif_pass">تغيير كلمة المرور</string>
+
+    <string name="selected_language">العربية</string>
+    <string name="language">تغيير اللغة</string>
+    <string name="TextGuidance">
+        مرحبا سيدي، سيدتي ضابطة شرطة
+        هذا التطبيق في خدمتك ، لتغيير كلمة المرور الخاصة بك ،
+        تغيير لغة التطبيق يرجى الانتقال إلى القائمة والنقر على التكوين.
+        للاطلاع على قائمة الانتهاكات القريبة منك
+        يرجى الذهاب إلى القائمة والنقر على الانتهاكات .
+        للخروج من التطبيق ، ما عليك سوى النقر فوق تسجيل الخروج
+    </string>
+    <string name="HomeG">إرشادات </string>
+    <string name="HomeV">انتهاكات</string>
+    <string name="HomeSeet">اعدادات</string>
+    <string name="HomeLogout">الخروج</string>
+
+</resources>

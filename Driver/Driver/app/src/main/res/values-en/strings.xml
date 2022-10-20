@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="reset">Reset your Password ?</string>
+    <string name="enterP">Enter your new Password </string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="PRS">Password Reset Successfully</string>
+    <string name="PRF">Password Reset faild</string>
+
+    <string name="app_name">Driver</string>
+
+    <string name="modif_pass">Change your password</string>
+    <string name="selected_language">English</string>
+    <string name="language">Change the language</string>
+    <string name="TextGuidance">Hello Sir, Madam Police Officer
+        this application is at your service, to Change your Password,
+        Change the application language please go to the menu and click on Configuration.
+        to see the list of violations close to you
+        please go to the menu and click on violations .
+        to exit the application it just click on Logout</string>
+    <string name="HomeG">Guidance</string>
+    <string name="HomeV">Violation</string>
+    <string name="HomeSeet">settings</string>
+    <string name="HomeLogout">Logout</string>
+
+</resources>

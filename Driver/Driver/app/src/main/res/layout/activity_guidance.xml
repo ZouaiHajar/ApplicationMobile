@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".guidance"
+    android:background="@drawable/back"
+    android:orientation="vertical">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/app_barr_layout"
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/app_bar"
+            style="@style/Foxandroid.Toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:background="@color/color1"
+            app:navigationIcon="@drawable/back_24" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <ScrollView
+        android:layout_width="273dp"
+        android:layout_height="610dp"
+        android:background="#C9BAE8E8"
+        android:layout_marginTop="25dp"
+        android:layout_gravity="center_horizontal"
+        android:fillViewport="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            >
+
+            <TextView
+                android:layout_width="319dp"
+                android:layout_height="172dp"
+                android:gravity="center_horizontal"
+                android:textSize="14dp"
+                android:id="@+id/txt"
+                android:textStyle="bold">
+
+            </TextView>
+
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>
